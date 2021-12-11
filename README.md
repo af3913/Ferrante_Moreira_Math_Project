@@ -10,7 +10,7 @@ Graduate School of Arts and Science (GSAS) at New York University (NYU)
 
 December 2021
 
-This repository shows how a principal component analysis (PCA) works, step-by-step. We explain the math, the logic and the program behind this method. At last, we apply our methods and the standard scikitlearn package to show an application.
+This repository shows how a principal component analysis (PCA) works, step-by-step. We explain the math, the logic and the program behind this method. At last, we use our methods and the standard scikitlearn package to show an application.
 
 This is part of the QuantEcon class at NYU called Mathematical Foundations for Computational Social Science, taught by Drs. Thomas Sargent, Spencer Lyon and Chase Coleman.
 
