@@ -1,4 +1,4 @@
-# Ferrante_Moreira_Math_Project
+# Ferrante-Moreira Math Project
 
 This notebook was prepared by:
 
